@@ -12,3 +12,4 @@ D:\Copilot\TestRepository\TestApp\obj\Debug\net8.0\refint\TestApp.dll
 D:\Copilot\TestRepository\TestApp\obj\Debug\net8.0\TestApp.pdb
 D:\Copilot\TestRepository\TestApp\obj\Debug\net8.0\TestApp.genruntimeconfig.cache
 D:\Copilot\TestRepository\TestApp\obj\Debug\net8.0\ref\TestApp.dll
+D:\Copilot\TestRepository\TestApp\obj\Debug\net8.0\TestApp.sourcelink.json
